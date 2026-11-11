@@ -1,0 +1,4 @@
+plotly>=5.18
+kaleido>=0.2
+pandas
+snowflake-connector-python[pandas]

@@ -1,0 +1,46 @@
+,SYMBOL,DESCRIPTION,MDC,COMMODITY,ASSESSMENT_FREQUENCY,CARGO_SIZE,DELIVERY_REGION
+0,AAROA00,ESPO Blend (DES Shandong) Outright price Mo01 $/bbl,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,China
+1,AAROA03,ESPO Blend (DES Shandong) Outright price Mo01 $/bbl MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,China
+2,AAROB00,ESPO Blend (DES Shandong) Outright price Mo02 $/bbl,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,China
+3,AAROB03,ESPO Blend (DES Shandong) Outright price Mo02 $/bbl MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,China
+4,AAROE00,ESPO Blend (DES Shandong) differential against Asian Dated Brent Mo01 $/bbl,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,China
+5,AAROE03,ESPO Blend (DES Shandong) differential against Asian Dated Brent Mo01 $/bbl MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,China
+6,AAROF00,ESPO Blend (DES Shandong) differential against Asian Dated Brent Mo02 $/bbl,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,China
+7,AAROF03,ESPO Blend (DES Shandong) differential against Asian Dated Brent Mo02 $/bbl MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,China
+8,AAROC00,ESPO Blend (DES Shandong) differential against Dubai Mo01 $/bbl,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,China
+9,AAROC03,ESPO Blend (DES Shandong) differential against Dubai Mo01 $/bbl MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,China
+10,AAROD00,ESPO Blend (DES Shandong) differential against Dubai Mo02 $/bbl,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,China
+11,AAROD03,ESPO Blend (DES Shandong) differential against Dubai Mo02 $/bbl MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,China
+12,PCAQD00,ESPO CFR North Asia,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,Northern Asia
+13,PCAQD03,ESPO CFR North Asia MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,Northern Asia
+14,AARWD00,ESPO FOB Kozmino Mo01 London,"CRD,CRU,RI",Crude Oil,Daily (weekdays),,APAC
+15,ABWGE00,ESPO FOB Kozmino Mo01 London Euro/Bbl,"CRD,CRU,RI",Crude Oil,Daily (weekdays),,APAC
+16,ABWGE03,ESPO FOB Kozmino Mo01 London Euro/Bbl MAvg,"CRD,CRU,RI",Crude Oil,Monthly,,APAC
+17,AARWD03,ESPO FOB Kozmino Mo01 London MAvg,"CRD,CRU,RI",Crude Oil,Monthly,,APAC
+18,AARWE00,ESPO FOB Kozmino Mo01 London vs Angola Dtd Brent Strip,"CRD,CRU,RI",Crude Oil,Daily (weekdays),,APAC
+19,AARWE03,ESPO FOB Kozmino Mo01 London vs Angola Dtd Brent Strip MAvg,"CRD,CRU,RI",Crude Oil,Monthly,,APAC
+20,AARWF00,ESPO FOB Kozmino Mo01 Spore,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,APAC
+21,AARWF03,ESPO FOB Kozmino Mo01 Spore MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,APAC
+22,AARWF04,ESPO FOB Kozmino Mo01 Spore WAvg,"CRD,RP,CRU",Crude Oil,Weekly,,APAC
+23,AASEU00,ESPO FOB Kozmino Mo01 Spore vs Dubai Mo01,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,APAC
+24,AASEU03,ESPO FOB Kozmino Mo01 Spore vs Dubai Mo01 MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,APAC
+25,AAWFE00,ESPO FOB Kozmino Mo02 Spore,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,APAC
+26,AAWFE03,ESPO FOB Kozmino Mo02 Spore MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,APAC
+27,AAWFG00,ESPO FOB Kozmino Mo02 Spore vs Dubai Mo02,"CRD,RP,CRU",Crude Oil,Daily (weekdays),,APAC
+28,AAWFG03,ESPO FOB Kozmino Mo02 Spore vs Dubai Mo02 MAvg,"CRD,RP,CRU",Crude Oil,Monthly,,APAC
+29,ACOFP00,ESPO Grade Marginal Carbon Intensity Mthly gCO2e/MJ,"CRD,LCE,CRU",Carbon Dioxide,Monthly,,CIS
+30,MCOFP00,ESPO Grade Marginal Carbon Intensity Mthly gCO2e/MJ (Mirror),CCI,Carbon Dioxide,Monthly,,Russia
+31,ACOGQ00,ESPO Grade Marginal Carbon Intensity Mthly kgCO2e/bbl,"CRD,LCE,CRU",Carbon Dioxide,Monthly,,CIS
+32,MCOGQ00,ESPO Grade Marginal Carbon Intensity Mthly kgCO2e/bbl (Mirror),CCI,Carbon Dioxide,Monthly,,Russia
+33,ESSCN00,ESPO Singapore Cracking Netback,"CRD,NX,CRU",Crude Oil,Daily (weekdays),,Singapore
+34,ESSCN03,ESPO Singapore Cracking Netback (Platts) MAvg,"CRD,NX,CRU",Crude Oil,Monthly,,Singapore
+35,ESSCN04,ESPO Singapore Cracking Netback (Platts) WAvg,"CRD,NX,CRU",Crude Oil,Weekly,,Singapore
+36,ESSCM00,ESPO Singapore Cracking Netback Margin,"CRD,NX,CRU",Crude Oil,Daily (weekdays),,Singapore
+37,ESSCM03,ESPO Singapore Cracking Netback Margin (Platts) MAvg,"CRD,NX,CRU",Crude Oil,Monthly,,Singapore
+38,ESSCM04,ESPO Singapore Cracking Netback Margin (Platts) WAvg,"CRD,CRU,NX",Crude Oil,Weekly,,Singapore
+39,ESSCY00,ESPO Singapore Cracking Yield,"CRD,YS,CRU",Crude Oil,Daily (weekdays),,Singapore
+40,ESSCY03,ESPO Singapore Cracking Yield (Platts) MAvg,"CRD,YS,CRU",Crude Oil,Monthly,,Singapore
+41,ESSCY04,ESPO Singapore Cracking Yield (Platts) WAvg,"CRD,YS,CRU",Crude Oil,Weekly,,Singapore
+42,ESSFA00,ESPO Singapore Freight,"CRD,NP,CRU",Freight,Daily (weekdays),,Singapore
+43,ESSFA03,ESPO Singapore Freight (Platts) MAvg,"CRD,NP,CRU",Freight,Monthly,,Singapore
+44,ESSFA04,ESPO Singapore Freight (Platts) WAvg,"CRD,NP,CRU",Freight,Weekly,,Singapore

@@ -1,0 +1,101 @@
+,SYMBOL,DESCRIPTION,MDC,COMMODITY
+0,ABUSA03,#1 Busheling Delivered US South MAvg,"FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+1,ABUSA04,#1 Busheling Delivered US South WAvg,"FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+2,ABUSA00,"#1 Busheling Delivered US South,1号边角废钢运抵美国南部价,Chatarra busheling n.º 1 entregada en sur EE. UU.,Sucata de ferro ou aço novo entregue no sul dos EUA","FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+3,ABUMA00,#1 Busheling Scrap Mexico,"FME,MET,SPM,SSD,ST",Ferrous scrap
+4,ABUMC00,#1 Busheling Scrap Mexico $/mt,"FME,MET,SPM,SSD,ST",Ferrous scrap
+5,ABUMC03,#1 Busheling Scrap Mexico $/mt MAvg,"FME,MET,SPM,SSD,ST",Ferrous scrap
+6,ABUMA03,#1 Busheling Scrap Mexico MAvg,"FME,MET,SPM,SSD,ST",Ferrous scrap
+7,SBMAA04,#1 Busheling Scrap N Amer Dom Prod Dlvd Mill $/Long Ton WAvg,"FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+8,SBO1001,#1 Busheling Scrap N Amer Dom Prod Dlvd Mill $/MT,"FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+9,SBOA004,#1 Busheling Scrap N Amer Dom Prod Dlvd Mill $/MT WAvg,STZ,Ferrous scrap
+10,SBMAA03,#1 Busheling Scrap N Amer Dom Prod Dlvd Mill MAvg $/Long Ton,"FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+11,SB01001,"#1 Busheling Scrap N Amer Dom Prod Dlvd Mill,1号边角废钢北美当地生产运抵钢厂价,Chatarra busheling #1 prod. dom. Norteamérica entregada en planta,Sucata de ferro ou aço novo dom. da Am. do Norte entregue em usina","FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+12,AAGFU00,0.5% Gasoil vs WTI USWC Mthly Cl,FSZ,
+13,FFFCC00,1%FO Fut Swaps Commercial,CMZ,Fuel oil
+14,FFFNC00,1%FO Fut Swaps Non-Comm,CMZ,Fuel oil
+15,FFFNR00,1%FO Fut Swaps Non-Rep,CMZ,Fuel oil
+16,OFFCC00,1%FO Fut+Opt Swaps Comm,CMZ,Fuel oil
+17,OFFNC00,1%FO Fut+Opt Swaps Non-Comm,CMZ,Fuel oil
+18,OFFNR00,1%FO Fut+Opt Swaps Non-Rep,CMZ,Fuel oil
+19,MBCAU00,100% Methanol Marine Fuel (100 MMF) Delivered Houston USD/mt,AUZ,Methanol
+20,MBCAU03,100% Methanol Marine Fuel (100 MMF) Delivered Houston USD/mt MAvg,AUZ,Methanol
+21,MBCAU04,100% Methanol Marine Fuel (100 MMF) Delivered Houston USD/mt WAvg,AUZ,Methanol
+22,AALGM00,15-45 Day Dated Strip,"CRD,CRU,RI",Crude oil
+23,AALGN00,15-45 Day Dated Strip MAvg,"CRD,CRU,RI",Crude oil
+24,AFUMD00,180cst Low Sulfur Fuel Oil Sales Port of Fujairah,"FUJ,RFP,RPR",Fuel oil
+25,GHPDB00,1st half-month ahead Spanish TVB-Dutch TTF Eur/MWh,"EG,EGP,EPG",LNG
+26,SB01135,"1、2号混合重熔废钢北美当地生产运抵钢厂价,HMS 1/2 N Amer Dom Prod Dlvd Mill,HMS 1/2 dom. da Am. do Norte entregue em usina,HMS 1/2 prod. dom. Norteamérica entregada en planta","FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+27,SB01133,"1、2号混合重熔废钢巴西东南部当地生产FOT钢厂_每周估价,HMS 1/2 Brazil SE Dom Prod FOT Mill Wkly,HMS 1/2 dom. do sudeste do Brasil FOT usina, semanal,HMS 1/2 prod. dom. sudeste Brasil FOT planta, ref. semanal","FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+28,SB01130,"1、2号混合重熔废钢（80:20）CFR东亚_每周估价,HMS 1/2 80:20 E Asia Imp CFR $/mt Wkly,HMS 1/2 80:20 import. CFR este Asia, ref. semanal,HMS 1/2 80:20 import. CFR leste da Ásia, semanal","FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+29,TS01037,"1、2号混合重熔废钢（80:20）集装箱CFR台湾港口,HMS 1/2 80:20 Containerized CFR Taiwan Port,HMS 1/2 80:20 em contêiner CFR porto de Taiwan,HMS 1/2 80:20 en contenedor CFR pto. de Taiwán","FME,MET,RMP,RMS,SI",Ferrous scrap
+30,PHANV03,2-EH CFR China MAvg,"CML,IM,PET",2-Ethylhexanol
+31,PHANU00,2-EH CFR China Weekly,"CML,IM,PET",2-Ethylhexanol
+32,PHANX03,2-EH CFR SE Asia MAvg,"CML,IM,PET",2-Ethylhexanol
+33,PHANW00,2-EH CFR SE Asia Weekly,"CML,IM,PET",2-Ethylhexanol
+34,HPAPP03,2-EH FD NWE Eur/mt MAvg,"CML,IM,PET",2-Ethylhexanol
+35,HPAPO00,2-EH FD NWE Eur/mt Weekly,"CML,IM,PET",2-Ethylhexanol
+36,EFCNA03,2-EH FOB China MAvg,"CML,IM,PET",2-Ethylhexanol
+37,EFCNA04,2-EH FOB China Wkly,"CML,IM,PET",2-Ethylhexanol
+38,PHAPN03,2-EH FOB Rotterdam MAvg,"CML,IM,PET",2-Ethylhexanol
+39,PHAPM00,2-EH FOB Rotterdam Weekly,"CML,IM,PET",2-Ethylhexanol
+40,PHAQX03,2-EH FOB USG MAvg,"CML,IM,PET",2-Ethylhexanol
+41,PHAQW00,2-EH FOB USG Weekly,"CML,IM,PET",2-Ethylhexanol
+42,PHAQZ03,2-Ethyl Hexanol DAP East of the Rockies cts/lb MAvg,IMZ,2-Ethylhexanol
+43,PHAQY00,2-Ethyl Hexanol DAP East of the Rockies cts/lb Wkly,IMZ,2-Ethylhexanol
+44,C2EAU01,2-EthylHexyl Acrylate DDP US East Coast,"CML,IM,PET",2-Ethylhexyl acrylate
+45,C2EAU61,2-EthylHexyl Acrylate DDP US East Coast MAvg,"CML,IM,PET",2-Ethylhexyl acrylate
+46,C2EAU41,2-EthylHexyl Acrylate DDP US East Coast WAvg,"CML,IM,PET",2-Ethylhexyl acrylate
+47,C2EAE01,2-EthylHexyl Acrylate FCA ARA,"CML,IM,PET",2-Ethylhexyl acrylate
+48,C2EAE61,2-EthylHexyl Acrylate FCA ARA MAvg,"CML,IM,PET",2-Ethylhexyl acrylate
+49,C2EAE41,2-EthylHexyl Acrylate FCA ARA WAvg,"CML,IM,PET",2-Ethylhexyl acrylate
+50,MBCAX00,20% Methanol Marine Fuel (20 MMF) Delivered Houston USD/mt,AUZ,Methanol
+51,MBCAX03,20% Methanol Marine Fuel (20 MMF) Delivered Houston USD/mt MAvg,AUZ,Methanol
+52,MBCAX04,20% Methanol Marine Fuel (20 MMF) Delivered Houston USD/mt WAvg,AUZ,Methanol
+53,GHPDC00,2nd half-month ahead Spanish TVB-Dutch TTF Eur/MWh,"EG,EGP,EPG",LNG
+54,FFOCC00,3%FO Fut Swaps Commercial,CMZ,Fuel oil
+55,FFONC00,3%FO Fut Swaps Non-Comm,CMZ,Fuel oil
+56,FFONR00,3%FO Fut Swaps Non-Rep,CMZ,Fuel oil
+57,OFOCC00,3%FO Fut+Opt Swaps Comm,CMZ,Fuel oil
+58,OFONC00,3%FO Fut+Opt Swaps Non-Comm,CMZ,Fuel oil
+59,OFONR00,3%FO Fut+Opt Swaps Non-Rep,CMZ,Fuel oil
+60,SB01002,304L Brt Bar 25-80MM Dia Base Europe Dom Prod Dlvd Mthly,SRZ,Steel
+61,SB01003,304L Brt Bar 25-80MM Dia Trans Europe Dom Prod Dlvd Mthly,SRZ,Steel
+62,AFUME00,380cst Low Sulfur Fuel Oil Sales Port of Fujairah,"FUJ,RFP,RPR",Fuel oil
+63,AFUMC00,380cst Marine Fuel Oil Sales Port of Fujairah,"FUJ,RFP,RPR",Fuel oil
+64,SB01004,"3B Shredded Scrap UK Dom Prod Dlvd Mill Wkly,3B碎废钢英国当地生产运抵钢厂价_每周估价,Chatarra 3D (triturada) prod. dom. Reino Unido entregada en planta, ref. semanal,Sucata triturada 3B dom. do RU entregue em usina, semanal","FME,MET,RMP,RMS,SPM,SSD,ST",Ferrous scrap
+65,GHPDD00,3nd half-month ahead Spanish TVB-Dutch TTF Eur/MWh,"EG,EGP,EPG",LNG
+66,SB01005,430F Drawn Bar 8-25MM Dia Base Europe Dom Prod Dlvd Mthly,SRZ,Steel
+67,SB01006,430F Drawn Bar 8-25MM Dia Trans Europe Dom Prod Dlvd Mthly,SRZ,Steel
+68,SB01007,4A New Steel Bales UK Dom Prod Dlvd Mill Wkly,STZ,Ferrous scrap
+69,GHPDE00,4th half-month ahead Spanish TVB-Dutch TTF Eur/MWh,"EG,EGP,EPG",LNG
+70,IOYFA03,57% Fe Yandi Fines CFR Qingdao $/DMT MAvg,SIZ,Iron ore
+71,IOYFA00,"57% Fe Yandi Fines CFR Qingdao $/DMT,Finos Yandi (57% Fe) CFR Qingdao, USD/t (peso seco),Finos Yandi 52% Fe CFR Qingdao (US$/dmt),品位57%杨迪粉矿CFR青岛（美元/干吨）",SIZ,Iron ore
+72,IOYFB03,57% Fe Yandi Fines CFR Qingdao (Floating) $/DMT MAvg,SIZ,Iron ore
+73,IOYFB00,"57% Fe Yandi Fines CFR Qingdao (Floating) $/DMT,Finos Yandi (57% Fe) CFR Qingdao (variable), USD/t (peso seco),Finos Yandi 52% Fe CFR Qingdao (variável) (US$/dmt),品位57%杨迪粉矿CFR青岛_浮动价（美元/干吨）",SIZ,Iron ore
+74,IOYFC00,57% Fe Yandi Fines CFR Qingdao Brand Differential $/DMT,SIZ,Iron ore
+75,IOYFC03,57% Fe Yandi Fines CFR Qingdao Brand Differential $/DMT MAvg,SIZ,Iron ore
+76,FIOTB00,61/62% Fe Transitional Basis Spread $/dmt,"FME,MET,RMP,RMS,SI,SPM",Iron ore
+77,FIOTB03,61/62% Fe Transitional Basis Spread $/dmt MAvg,"FME,MET,SI",Iron ore
+78,FIOCS00,62/61% Fe IODEX Basis Spread $/dmt,"FME,MET,SI",Iron ore
+79,FIOCS03,62/61% Fe IODEX Basis Spread MAvg $/dmt,"FME,MET,SI",Iron ore
+80,AAITQ00,"65-16硅锰DDP西北欧,Silicomanganese 65:16 DDP NWE,Silicomanganeso (65:16) DDP noroeste Europa,Silicomanganês 65:16 DDP noroeste da Europa","FA,FME,MET,MNF,NFM,RMP,RMS",Silicomanganese
+81,AAXNK00,7 inch steel OCTG FOB Tianjin China $/Ft,SQZ,Steel
+82,AAXNI00,7 inch steel OCTG FOB Tianjin China $/Mt,SQZ,Steel
+83,AAGFN00,70-30 Midpoint USWC Mthly,FSZ,
+84,GPBFW00,85CL Beef CIF EC US $/lb,"AGF,AGS,GPN",Beef
+85,GPBFW03,85CL Beef CIF EC US $/lb MAvg,"AGF,AGS,GPN",Beef
+86,ATALG00,85CL Beef CIF EC US $/mt,"AGF,AGS,GPN",Beef
+87,ATALG03,85CL Beef CIF EC US $/mt MAvg,"AGF,AGS,GPN",Beef
+88,GPBFP00,85CL Beef FCA EC US $/lb,"AGF,AGS,GPN",Beef
+89,GPBFP03,85CL Beef FCA EC US $/lb MAvg,"AGF,AGS,GPN",Beef
+90,GPBFQ00,85CL Beef FCA EC US $/mt,"AGF,AGS,GPN",Beef
+91,GPBFQ03,85CL Beef FCA EC US $/mt MAvg,"AGF,AGS,GPN",Beef
+92,GPBFE00,85CL Beef FCA WC US $/lb,"AGF,AGS,GPN",Beef
+93,GPBFE03,85CL Beef FCA WC US $/lb MAvg,"AGF,AGS,GPN",Beef
+94,GPBFF00,85CL Beef FCA WC US $/mt,"AGF,AGS,GPN",Beef
+95,GPBFF03,85CL Beef FCA WC US $/mt MAvg,"AGF,AGS,GPN",Beef
+96,GPBFU00,90CL Beef CIF EC US $/lb,"AGF,AGS,GPN",Beef
+97,GPBFU03,90CL Beef CIF EC US $/lb MAvg,"AGF,AGS,GPN",Beef
+98,ATALB00,90CL Beef CIF EC US $/mt,"AGF,AGS,GPN",Beef
+99,ATALB03,90CL Beef CIF EC US $/mt MAvg,"AGF,AGS,GPN",Beef
